@@ -1,3 +1,5 @@
+# By. Lucas Silveira <contato.lucasdwbfff@gmail.com>
+
 from requests import post
 import json
 
